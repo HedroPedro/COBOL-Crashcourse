@@ -19,11 +19,11 @@
 4. Instale as extensões IBM Z Open Editor e Zowe Explorer
 5. Vá na Aba do ZOWE Explorer
 
-![Aba do ZOWE](imgs\aba_zowe.PNG)
+![Aba do ZOWE](imgs/aba_zowe.PNG)
 
 6. Clique no '+', em data sets
 
-![Sinal de +](imgs\plus_add_config.PNG)
+![Sinal de +](imgs/plus_add_config.PNG)
 
 7. Selecione `Create Team Profile`
 
@@ -40,11 +40,11 @@
 ## Criando os datasets
 1. Vá na Aba do ZOWE Explorer
 
-![Aba do ZOWE](imgs\aba_zowe.PNG)
+![Aba do ZOWE](imgs/aba_zowe.PNG)
 
 2. Vá na lupa e digite o seu usuário (caso não tenha feito [Preparando o ambiente](#preparando-o-ambiente))
 
-![Lupa](imgs\lupa_data_set.PNG)
+![Lupa](imgs/lupa_data_set.PNG)
 
 3. Clique com o botão direito em `zosmf` e em `Create New Data set`
 
@@ -65,7 +65,7 @@
     - Directory Blocks: 1
     - Data set Type (DSNTYPE): LIBRARY
 
-![Atributos](imgs\data_set_config.png)
+![Atributos](imgs/data_set_config.png)
 
 2. Clique em Save e nomeie como `Data set Curso`
 
