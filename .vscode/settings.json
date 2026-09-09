@@ -1,0 +1,24 @@
+{
+    "zowe.ds.templates": [
+        {
+            "Data set Curso": {
+                "alcunit": "TRK",
+                "blksize": 6160,
+                "dirblk": 1,
+                "dsntype": "LIBRARY",
+                "dsorg": "PO",
+                "primary": 1,
+                "recfm": "FB",
+                "lrecl": 80
+            },
+            "Seq Curso": {
+                "alcunit": "TRK",
+                "blksize": 6160,
+                "dsorg": "PS",
+                "primary": 1,
+                "recfm": "FB",
+                "lrecl": 80
+            }
+        }
+    ]
+}
